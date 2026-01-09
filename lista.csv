@@ -1,5 +1,4 @@
-id;Nome;News
-1;Marcos;
-2;Maria;
-3;João;
-4;Carlos;
+nome,conta,cartao
+Ana,12345-6,**** **** **** 1234
+Bruno,98765-4,**** **** **** 9876
+Carla,45678-9,**** **** **** 4567
